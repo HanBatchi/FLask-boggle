@@ -1,0 +1,34 @@
+body{
+  background-color: rgb(206, 203, 203);
+  font-size: 19px;
+}
+
+.word{
+  padding: 8px 15px;
+  border-radius: 15px;
+  border: none;
+  box-shadow: 6px 5px 6px rgba(0, 0, 0, 0.1);
+  transition: 1s;
+}
+
+.word:hover{
+  padding: 10px 17px;
+}
+
+.submit-button{
+  border: none;
+  border-radius: 15px;
+  padding: 8px 15px;
+  font-size: 15px;
+  box-shadow: 6px 5px 6px rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+  transition: 1s;
+}
+
+.submit-button:hover{
+  font-size: 17px;
+}
+.msg{
+  font-size: 23px;
+  font-weight: bold;
+}
